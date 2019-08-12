@@ -1,0 +1,1 @@
+{"type":"Label","props":{"y":28,"x":135,"width":270,"valign":"middle","text":"9999999","stroke":10,"presetID":1,"pivotY":28,"pivotX":135,"name":"damageNum","isPresetRoot":true,"height":56,"fontSize":50,"color":"#d4a933","align":"center"},"compId":58,"child":[{"type":"Script","props":{"presetID":2,"runtime":"script/damageNum.js"},"compId":59}],"loadList":[],"loadList3D":[]}

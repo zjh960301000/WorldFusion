@@ -1,0 +1,1 @@
+{"type":"Sprite","props":{"y":0,"x":0,"texture":"UI/redShadow/RedSkillOpen.png","presetID":1,"name":"RedSkillOpen","isPresetRoot":true},"compId":76,"child":[{"type":"Sprite","props":{"y":0,"x":0,"visible":false,"texture":"UI/skillready.png","presetID":2,"name":"skillReady"},"compId":77}],"loadList":["UI/redShadow/RedSkillOpen.png","UI/skillready.png"],"loadList3D":[]}
